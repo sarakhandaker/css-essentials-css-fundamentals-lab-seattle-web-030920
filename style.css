@@ -4,3 +4,7 @@ body {
   margin: 0;
   text-align: center;
 }
+a {
+  padding: 10px
+  background-color: gray;
+}

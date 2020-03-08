@@ -7,7 +7,7 @@ body {
 a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: gray;
+  background-color: rgb(188, 201, 183, 0.5);
 }
 
 figcaption {

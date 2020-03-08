@@ -20,5 +20,6 @@ figcaption {
 div {
   float: left;
   width: 25%;
+  background-color:rgb(188, 201, 183, 0.5); 
 }
 }

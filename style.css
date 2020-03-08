@@ -13,3 +13,11 @@ a {
 figcaption {
   font-size: 10px;
 }
+
+#details {
+  display:block;
+}
+div {
+  float: left;
+}
+}
